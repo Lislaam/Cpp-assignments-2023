@@ -17,7 +17,7 @@ Date: 18/02/2022
 #include<sstream>
 #include<cmath>
 
-// "C:\Users\Student\Downloads\courselist.txt"
+// "\courselist.txt"
 
 struct course {
     float mark{};
